@@ -1,1 +1,2 @@
-my_file
+git add my_file.txt myfile2.txt myfile3.txt
+As an alternative, you can simply run the f
